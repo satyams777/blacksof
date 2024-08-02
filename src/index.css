@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-gradient-to-r {
+  background: linear-gradient(to right, #ffffff, #d7ebf9);
+}
